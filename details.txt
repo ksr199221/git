@@ -1,0 +1,7 @@
+Remove Cached Credentials from Windows Credential Manager
+Git on Windows often uses the Windows Credential Manager to store credentials.
+Open Control Panel → User Accounts → Credential Manager
+Go to Windows Credentials
+Find entries related to git (e.g., git:https://github.com)
+Click on them and select Remove
+
