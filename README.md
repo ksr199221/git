@@ -22,4 +22,4 @@ Use `print("Hello World")` to print a message in Python.
 
 [Name](https:..google.com)
 
-![Alt Text](https://example.com/image.png)
+![Alt Text](https://cdn.esawebb.org/archives/images/screen/jupiter-auroras1.jpg)
