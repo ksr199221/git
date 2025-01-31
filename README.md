@@ -6,3 +6,9 @@
 2. **📌 Email**
    ```sh
    git config --global user.email
+
+
+#Practice
+**Bold Text**
+*Italic Text*
+~~Strikethrough~~
