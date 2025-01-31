@@ -8,7 +8,7 @@
    git config --global user.email
 
 
-#Practice
+# Practice
 **Bold Text**
 *Italic Text*
 ~~Strikethrough~~
