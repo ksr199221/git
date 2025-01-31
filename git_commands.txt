@@ -1,0 +1,5 @@
+#add all files to the staging area in Git:
+git add .
+
+#commit changes with a message in Git:
+git commit -m "add the comments here"
