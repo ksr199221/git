@@ -12,3 +12,4 @@
 **Bold Text**
 *Italic Text*
 ~~Strikethrough~~
+Use `print("Hello World")` to print a message in Python.
