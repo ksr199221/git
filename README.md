@@ -11,9 +11,9 @@
 # Practice
 
 **Bold Text**
-
-*Italic Text*
-
-~~Strikethrough~~
 ---
+*Italic Text*
+***
+~~Strikethrough~~
+===
 Use `print("Hello World")` to print a message in Python.
