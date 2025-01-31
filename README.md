@@ -6,6 +6,14 @@
 2. **📌 Email**
    ```sh
    git config --global user.email
+3. **Unset User Name**
+   ```sh
+   git config --global --unset user.name
+4. **Unset Email Name**
+   ```sh
+   git config --global --unset user.email
+
+
 
 
 # Practice
@@ -40,6 +48,8 @@ Use `print("Hello World")` to print a message in Python.
 > This is Block Quote
 
 ![GitHub License](https://img.shields.io/github/license/user/repo)
+![Version](https://img.shields.io/github/release/username/repository.svg)
+
 
 - [x] Completed Task
 - [ ] Pending Task
